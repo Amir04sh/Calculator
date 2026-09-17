@@ -26,8 +26,7 @@
 
 🛠️ Technologies
 
-• HTML
-• CS
+• HTML & CSS
 • JAVA-SCRIPT
 ---
 
