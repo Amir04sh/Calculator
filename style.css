@@ -57,6 +57,10 @@ button:active{
      background-color: rgb(37, 39, 31);
 }
 
+.delete{
+     color: brown;
+}
+
 .history{
      font-size: 30px;
      color: indigo;
