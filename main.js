@@ -29,6 +29,8 @@ function addToHistory (expression , result) {
      const item =
 document.createElement('p');
 
+ const shortResult = Number(Number(result).toFixed(3));
+
      item.textContent = expression + ' = ' + result
      history.appendChild(item);
 }
