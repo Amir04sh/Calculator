@@ -20,8 +20,6 @@
 
 📱 Responsive design
 
-
-
 ---
 
 🛠️ Technologies
@@ -33,7 +31,7 @@
 
 🌐 Live Demo
 
-
+https://amir04sh.github.io/Calculator/
 
 ---
 
@@ -59,6 +57,6 @@ I built this project to practice:
 
 👨‍💻 Author
 
-Amir04sh
+>Amir04sh<
 
 ⭐ If you like this project, feel free to give it a Star!
