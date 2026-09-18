@@ -33,7 +33,7 @@
 
 🌐 Live Demo
 
-https://amir04sh.github.io/Calculator/
+
 
 ---
 
