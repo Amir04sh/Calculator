@@ -31,7 +31,7 @@ document.createElement('p');
 
  const shortResult = Number(Number(result).toFixed(3));
 
-     item.textContent = expression + ' = ' + result
+     item.textContent = expression + ' = ' + shortResult;
      history.appendChild(item);
 }
 
