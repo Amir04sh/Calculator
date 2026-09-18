@@ -30,7 +30,7 @@ function addToHistory (expression , result) {
 document.createElement('p');
 
      item.textContent = expression + ' = ' + result
-     history.appendChild(item)
+     history.appendChild(item);
 }
 
 function calculate() {
