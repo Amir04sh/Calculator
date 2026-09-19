@@ -4,6 +4,8 @@ body{
      justify-content: center;
      align-items: center;
      background-color: rgb(209, 207, 207);
+     flex-direction: column;
+     gap: 10px;
 }
 
 .calculator{
