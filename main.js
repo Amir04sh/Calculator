@@ -34,7 +34,7 @@ document.createElement('p');
      item.textContent = expression + ' = ' + shortResult;
      history.appendChild(item);
 
-     if (history.children.length > 3) {
+     if (history.children.length > 2) {
           history.removeChild (history.children[0]);
      }
 }
